@@ -1,0 +1,29 @@
+Immediate geographic regions
+120001 - Rio Branco, Acre
+270001 - Maceió, Alagoas
+160001 - Macapá, Amapá
+130001 - Manaus, Amazonas
+290001 - Salvador, Bahia
+230001 - Fortaleza, Ceará
+530001 - Brasília, Distrito Federal
+320001 - Vitória, Espírito Santo
+520001 - Goiânia, Goiás
+210001 - São Luís, Maranhão
+510001 - Cuiabá, Mato Grosso
+500001 - Campo Grande, Mato Grosso do Sul
+310001 - Belo Horizonte, Minas Gerais
+150001 - Belém, Pará
+250001 - João Pessoa, Paraíba
+410001 - Curitiba, Paraná
+260001 - Recife, Pernambuco
+220001 - Teresina, Piauí
+330001 - Rio de Janeiro, Rio de Janeiro
+240001 - Natal, Rio Grande do Norte
+430001 - Porto Alegre, Rio Grande do Sul
+110001 - Porto Velho, Rondônia
+140001 - Boa Vista, Roraima
+420001 - Florianópolis, Santa Catarina
+350001 - São Paulo, São Paulo
+280001 - Aracaju, Sergipe
+170001 - Palmas, Tocantins
+
